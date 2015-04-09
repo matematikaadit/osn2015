@@ -44,6 +44,25 @@
       overflow: hidden;
       border: 0px none;
     }
+    .dynatable-processing {
+      background: #000;
+      opacity: 0.8;
+      -webkit-border-radius: 4px;
+      -moz-border-radius: 4px;
+      border-radius: 4px;
+    }
+    .dynatable-processing span {
+      background: #FFF;
+      border: solid 2px #57A957;
+      color: #333;
+      padding: 25px;
+      font-size: 2em;
+      box-shadow: 0px 0px 15px rgba(0,0,0,0.5);
+    }
+    .dynatable-processing span img {
+      vertical-align: middle;
+    }
+
     </style>
   </head>
 <body>
@@ -100,6 +119,9 @@ $('#osn').dynatable({
     records: data,
     perPageDefault: 20,
     perPageOptions: [20,30,50,100,675]
+  },
+  inputs: {
+    processingText: 'Processing <img src="processing.gif" />'
   }
 });
 </script>
