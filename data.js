@@ -3786,7 +3786,7 @@ var data =  [
       "lp": "L",
       "kls": 11,
       "sekolah": "MAN 3 MALANG",
-      "kab": "JAWA TIMUR",
+      "kab": "KOTA MALANG",
       "prov": "JAWA TIMUR"
     },
     {
