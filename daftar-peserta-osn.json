@@ -1,0 +1,6752 @@
+  [
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 1,
+      "NAMA": "CINDY ANGGRENIA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK 1 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 2,
+      "NAMA": "EUNICE SUKARTO",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK IPEKA INTEGRATED",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 3,
+      "NAMA": "VALENTINO PRASETYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK 3 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 4,
+      "NAMA": "EUGEHAN A SYAFESI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MH THAMRIN JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 5,
+      "NAMA": "FAUZAN NADHIF M",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MH THAMRIN JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 6,
+      "NAMA": "NICHOLAS STEVEN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SAINT PETERS SCHOOL",
+      "KAB/KOTA": "KOTA JAKARTA UTARA",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 7,
+      "NAMA": "EDBERT THEDA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK IPEKA SUNTER",
+      "KAB/KOTA": "KOTA JAKARTA UTARA",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 8,
+      "NAMA": "FAUZAN HANANDITO",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA IC AL KAUSAR",
+      "KAB/KOTA": "KAB. SUKABUMI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 9,
+      "NAMA": "BIMO ADITYARAHMAN W",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 10,
+      "NAMA": "MUHAMMAD NAUFAL AUSHAF",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA PRIBADI BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 11,
+      "NAMA": "MUH HABIBI HAIDIR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA PBBS BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 12,
+      "NAMA": "LOUIS CAHYADI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA SANTA MARIA 1 CEREBON",
+      "KAB/KOTA": "KOTA CIREBON",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 13,
+      "NAMA": "FENO VALENTINO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA PRIBADI BBS DEPOK",
+      "KAB/KOTA": "KOTA DEPOK",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 14,
+      "NAMA": "AJI LUHUR BHAKTI I F",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN SERAGEN BBS",
+      "KAB/KOTA": "KAB. SRAGEN",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 15,
+      "NAMA": "CHRISTOFEL RIO GOENAWAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA TRI TUNGGAL SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 16,
+      "NAMA": "KO ABEL ARDANA KUSUMA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KARANGTURI SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 17,
+      "NAMA": "EDWARD KEITARO HERU",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KARANGTURI SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 18,
+      "NAMA": "MARANATHA FLORENSIA W",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 19,
+      "NAMA": "OTTO ALEXANDER SUTIANTO",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMP KALAM KUDUS SURAKARTA",
+      "KAB/KOTA": "KOTA SURAKARTA",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 20,
+      "NAMA": "MUHAMMAD UMAR",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA MTA SURAKARTA",
+      "KAB/KOTA": "KOTA SURAKARTA",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 21,
+      "NAMA": "AGUSTINUS SINAGA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 22,
+      "NAMA": "HASNA IMTIYAZ HANIFAH",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 23,
+      "NAMA": "DEVARA IZAZ FATHAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 24,
+      "NAMA": "MUHAMMAD SYAHMAN SAMHAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 5 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 25,
+      "NAMA": "WAFFIQ MAAROJA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 PACITAN",
+      "KAB/KOTA": "KAB. PACITAN",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 26,
+      "NAMA": "NOVIA PERMATASARI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BATU",
+      "KAB/KOTA": "KOTA BATU",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 27,
+      "NAMA": "DIKY SAPUTRO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BATU",
+      "KAB/KOTA": "KOTA BATU",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 28,
+      "NAMA": "APRILLIA JUDOKUSUMO",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA INTAN PERMATA HATI",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 29,
+      "NAMA": "WILLIAM WAHYUDI",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMPK PETRA 1 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 30,
+      "NAMA": "WILLIAM KHO",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK PETRA 1 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 31,
+      "NAMA": "FRANSISCA ANDRIANI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 2 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 32,
+      "NAMA": "MUHAMMAD ALIF AQSHA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA FATIH BILINGUAL SCHOOL",
+      "KAB/KOTA": "KOTA BANDA ACEH",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 33,
+      "NAMA": "FAUZATU ARABICA Y H",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA DARUL MURSYID",
+      "KAB/KOTA": "KAB. TAPANULI SELATAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 34,
+      "NAMA": "JEFFREY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SUTOMO 1 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 35,
+      "NAMA": "ANDREY RAYMON SEPTIAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 BUKITTINGGI",
+      "KAB/KOTA": "KOTA BUKITTINGGI",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 36,
+      "NAMA": "DION SAPUTRA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 10 PADANG",
+      "KAB/KOTA": "KOTA PADANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 37,
+      "NAMA": "FARHAN SULTHAN SAMMARY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PADANG",
+      "KAB/KOTA": "KOTA PADANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 38,
+      "NAMA": "GALIH RINEKSA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA CENDANA PEKANBARU",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 39,
+      "NAMA": "HOPEIN CHRISTOFEN TANG",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA DARMA YUDHA",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 40,
+      "NAMA": "RIO FANDI DIANCO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 KOTA JAMBI",
+      "KAB/KOTA": "KOTA JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 41,
+      "NAMA": "DAVID ANANDA KOLIN",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMP IGNATIUS GLOBAL SCHOOL",
+      "KAB/KOTA": "KOTA PALEMBANG",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 42,
+      "NAMA": "SOFAN IRAWAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN 1 LAMPUNG TENGAH",
+      "KAB/KOTA": "KAB. LAMPUNG TENGAH",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 43,
+      "NAMA": "AJENG MENGKU NEGARA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 METRO",
+      "KAB/KOTA": "KOTA METRO",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 44,
+      "NAMA": "DANIEL WIJAYA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK IMMANUEL PONTIANAK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 45,
+      "NAMA": "FITRIANI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 AWANG LAPAI",
+      "KAB/KOTA": "KAB. BARITO TIMUR",
+      "PROVINSI": "KALIMANTAN TENGAH"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 46,
+      "NAMA": "M FATHIYAKAN RAMADHAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA GLOBAL IIC BOARDING",
+      "KAB/KOTA": "KAB. BARITO KUALA",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 47,
+      "NAMA": "ADITYA DHAMMAWAN TANG",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BALIKPAPAN",
+      "KAB/KOTA": "KOTA BALIKPAPAN",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 48,
+      "NAMA": "FELICIA GILLIAN TUERAH",
+      "L/P": "P",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMPK EBEN HAEZAR 1 MANADO",
+      "KAB/KOTA": "KOTA MANADO",
+      "PROVINSI": "SULAWESI UTARA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 49,
+      "NAMA": "YUSUF WILDAN A S",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA AL AZHAR PALU",
+      "KAB/KOTA": "KOTA PALU",
+      "PROVINSI": "SULAWESI TENGAH"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 50,
+      "NAMA": "GABRIEL ARON THEODOROES",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK RAJAWALI MAKASAR",
+      "KAB/KOTA": "KOTA MAKASSAR",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 51,
+      "NAMA": "RICKY THE ISING",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK RAJAWALI MAKASAR",
+      "KAB/KOTA": "KOTA MAKASSAR",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 52,
+      "NAMA": "MUH ACHIR SUCI R",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 4 KENDARI",
+      "KAB/KOTA": "KOTA KENDARI",
+      "PROVINSI": "SULAWESI TENGGARA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 53,
+      "NAMA": "ELSINA AYERITA SILETTY",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN UNGGULAN SAUMLAKI",
+      "KAB/KOTA": "KAB. MALUKU TENGGARA BARAT",
+      "PROVINSI": "MALUKU"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 54,
+      "NAMA": "I PUTU EKA SURYA ADITYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SINGARAJA",
+      "KAB/KOTA": "KAB. BULELENG",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 55,
+      "NAMA": "GIAN CORDANA SANJAYA",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMPN 1 NEGARA",
+      "KAB/KOTA": "KAB. JEMBRANA",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 56,
+      "NAMA": "MADE FAVIAN BUDI G",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMPN 1 TABANAN",
+      "KAB/KOTA": "KAB. TABANAN",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 57,
+      "NAMA": "HANNAH DEBORA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 4 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 58,
+      "NAMA": "ABUBAKAR AHMAD ARRAZY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MATARAM",
+      "KAB/KOTA": "KOTA MATARAM",
+      "PROVINSI": "NUSA TENGGARA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 59,
+      "NAMA": "RYAN RICHARD RIHI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 SOE",
+      "KAB/KOTA": "KAB. TIMOR TENGAH SELATAN",
+      "PROVINSI": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 60,
+      "NAMA": "RIAN HASIANDO SILAEN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 4 JAYAPURA",
+      "KAB/KOTA": "KOTA JAYAPURA",
+      "PROVINSI": "PAPUA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 61,
+      "NAMA": "WIDHA ANGELINA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KETAHUN",
+      "KAB/KOTA": "KAB. BENGKULU UTARA",
+      "PROVINSI": "BENGKULU"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 62,
+      "NAMA": "ALFARIDZI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 TERNATE",
+      "KAB/KOTA": "KOTA TERNATE",
+      "PROVINSI": "MALUKU UTARA"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 63,
+      "NAMA": "VINCENT TANDYA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK BPK PENABUR GADING SERPONG",
+      "KAB/KOTA": "KAB. TANGERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 64,
+      "NAMA": "SAMUEL ALFARO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK BPK PENABUR GADING SERPONG",
+      "KAB/KOTA": "KAB. TANGERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 65,
+      "NAMA": "HANS KRISHANDI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK RICCI 2 PONDOK AREN",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 66,
+      "NAMA": "MOHAMMAD RIFQI ZEIN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 67,
+      "NAMA": "TIMOTHY JACOB WAHYUDI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA SANTA LAURENSIA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 68,
+      "NAMA": "MUHAMMAD AFIFURRAHMAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 69,
+      "NAMA": "FARRAS M HIBBAN FADDILA",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMP KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 70,
+      "NAMA": "TIZA AYU VIRANIA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 71,
+      "NAMA": "ILHAM AKBAR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MANGGAR",
+      "KAB/KOTA": "KAB. BELITUNG TIMUR",
+      "PROVINSI": "KEP. BANGKA BELITUNG"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 72,
+      "NAMA": "WU WILLIAM PJ",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA MAITREYAWIRA BATAM",
+      "KAB/KOTA": "KOTA BATAM",
+      "PROVINSI": "KEPULAUAN RIAU"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 73,
+      "NAMA": "DIMAS AGUNG WIBOWO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 SORONG",
+      "KAB/KOTA": "KAB. SORONG",
+      "PROVINSI": "PAPUA BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 74,
+      "NAMA": "NASRUDDIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 MAJENE",
+      "KAB/KOTA": "KAB. MAJENE",
+      "PROVINSI": "SULAWESI BARAT"
+    },
+    {
+      "MAPEL": "MATEMATIKA",
+      "NO": 75,
+      "NAMA": "FERIAWAN TAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 TARAKAN",
+      "KAB/KOTA": "KOTA TARAKAN",
+      "PROVINSI": "KALIMANTAN UTARA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 1,
+      "NAMA": "ANGELYSIA CARDILLA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK IPEKA TOMANG 2 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 2,
+      "NAMA": "FUHANK BUNTARA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK 1 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 3,
+      "NAMA": "JOSEPHINE MELIA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK 1 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 4,
+      "NAMA": "IVAN IMMANUEL",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK 3 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 5,
+      "NAMA": "STANLEY ORLANDO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK 3 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 6,
+      "NAMA": "IRFAN ZAKY HARLEN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 8 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 7,
+      "NAMA": "GERRY WINDIARTO M DUNDA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN MH THAMRIN JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 8,
+      "NAMA": "NICHOLAS NATHANAEL",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK IPEKA SUNTER JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA UTARA",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 9,
+      "NAMA": "SAID ABDURRAHMAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TAMBUN SELATAN",
+      "KAB/KOTA": "KAB. BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 10,
+      "NAMA": "MUHAMMAD MAHENDRA S",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA IT AL BINAA",
+      "KAB/KOTA": "KAB. BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 11,
+      "NAMA": "DHANIL AGUS IRSAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SINDANG INDRAMAYU",
+      "KAB/KOTA": "KAB. INDRAMAYU",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 12,
+      "NAMA": "MUHAMMAD TAUFIQ M",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA PRIBADI BBS BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 13,
+      "NAMA": "BRIAN GIOVANNI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SANTA ANGELA BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 14,
+      "NAMA": "MUHAMAD IMANNULHAKIM",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 15,
+      "NAMA": "JYESTA MAHAYU A",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 KOTA BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 16,
+      "NAMA": "MICHAEL GILBERT",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMPK BPK PENABUR CIREBON",
+      "KAB/KOTA": "KOTA CIREBON",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 17,
+      "NAMA": "MOCHAMAD ALGHIFARI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 PURWOKERTO",
+      "KAB/KOTA": "KAB. BANYUMAS",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 18,
+      "NAMA": "REZA DZIKRI KHUSAINI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA TARUNA NUSANTARA",
+      "KAB/KOTA": "KAB. MAGELANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 19,
+      "NAMA": "MARCO WIJAYA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 PATI",
+      "KAB/KOTA": "KAB. PATI",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 20,
+      "NAMA": "FATKHUROZAK",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SLAWI",
+      "KAB/KOTA": "KAB. TEGAL",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 21,
+      "NAMA": "GIAN PARUSA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 WONOSOBO",
+      "KAB/KOTA": "KAB. WONOSOBO",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 22,
+      "NAMA": "ARUM NARULITA K S",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 23,
+      "NAMA": "EDO JAYAKUSUMA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA LOYOLA",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 24,
+      "NAMA": "EDWIN ALDRIAN SANTOSO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SURAKARTA",
+      "KAB/KOTA": "KOTA SURAKARTA",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 25,
+      "NAMA": "M ALFIYANDY H",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 26,
+      "NAMA": "YUNUS ADU",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 27,
+      "NAMA": "FATWA AZAM MAULANA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 28,
+      "NAMA": "DENNIS DEVIANDONI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 GLAGAH BANYUWANGI",
+      "KAB/KOTA": "KAB. BANYUWANGI",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 29,
+      "NAMA": "AZIZ ALBAR R",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA DARUL ULUM 2 BPPT JOMBANG",
+      "KAB/KOTA": "KAB. JOMBANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 30,
+      "NAMA": "RASYDHA WAHYU BUDI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PAMEKASAN",
+      "KAB/KOTA": "KAB. PAMEKASAN",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 31,
+      "NAMA": "BAGAS PURWA SENTIKA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BLITAR",
+      "KAB/KOTA": "KOTA BLITAR",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 32,
+      "NAMA": "RICKI BIN YAMIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KEDIRI",
+      "KAB/KOTA": "KOTA KEDIRI",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 33,
+      "NAMA": "DHANIKA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PROBOLINGGO",
+      "KAB/KOTA": "KOTA PROBOLINGGO",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 34,
+      "NAMA": "GRETEL GABY",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 2 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 35,
+      "NAMA": "ENRICO HARIONO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 1 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 36,
+      "NAMA": "MUHAMMAD JERI A",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA FATIH BILINGUAL SCHOOL",
+      "KAB/KOTA": "KOTA BANDA ACEH",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 37,
+      "NAMA": "BELLA GODIVA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA SUTOMO 1 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 38,
+      "NAMA": "MAURIZFA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SUTOMO 1 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 39,
+      "NAMA": "MUHAMMAD ALFARIDZI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA UNGGULAN CT FOUNDATION",
+      "KAB/KOTA": "KAB. DELI SERDANG",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 40,
+      "NAMA": "AHMAD SIDIK",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA UNGGULAN CT FOUNDATION",
+      "KAB/KOTA": "KAB. DELI SERDANG",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 41,
+      "NAMA": "CINDY BTARI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 PAYAKUMBUH",
+      "KAB/KOTA": "KOTA PAYAKUMBUH",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 42,
+      "NAMA": "RANGGO PATO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN AGAM CENDEKIA",
+      "KAB/KOTA": "KAB. AGAM",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 43,
+      "NAMA": "THARIQ RAMADHAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PADANG PANJANG",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 44,
+      "NAMA": "M RAFIF EW",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA CENDANA MANDAU",
+      "KAB/KOTA": "KAB. BENGKALIS",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 45,
+      "NAMA": "MUHAMMAD HASAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN TITIAN TERAS HAS",
+      "KAB/KOTA": "KAB. MUARO JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 46,
+      "NAMA": "ALFREDO RYELCIUS",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA IGNATIUS GLOBAL SCHOOL",
+      "KAB/KOTA": "KOTA PALEMBANG",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 47,
+      "NAMA": "ZAKI RAIHAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 9 BANDAR LAMPUNG",
+      "KAB/KOTA": "KOTA BANDAR LAMPUNG",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 48,
+      "NAMA": "FERRIS PRIMA NUGRAHA",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMP IMMANUEL PONTIANAK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 49,
+      "NAMA": "HILDA FEBRINA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 PALANGKA RAYA",
+      "KAB/KOTA": "KOTA PALANGKARAYA",
+      "PROVINSI": "KALIMANTAN TENGAH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 50,
+      "NAMA": "WILLIAM GUNAWAN EKA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 7 BANJARMASIN",
+      "KAB/KOTA": "KOTA BANJARMASIN",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 51,
+      "NAMA": "MUHAMMAD ARRAYYAAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN BANUA KALSEL BBS",
+      "KAB/KOTA": "KAB. BANJAR",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 52,
+      "NAMA": "RIZKA MELINA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BERAU",
+      "KAB/KOTA": "KAB. BERAU",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 53,
+      "NAMA": "LIANG CASSEY CRYSTANIA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK EBEN HAEZAR 1 MANADO",
+      "KAB/KOTA": "KOTA MANADO",
+      "PROVINSI": "SULAWESI UTARA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 54,
+      "NAMA": "ARYA SYAEFULAH FARSYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA AL AZHAR PALU",
+      "KAB/KOTA": "KOTA PALU",
+      "PROVINSI": "SULAWESI TENGAH"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 55,
+      "NAMA": "ILHAM ARI FAUZI A U",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 TINGGIMONCONG",
+      "KAB/KOTA": "KAB. GOWA",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 56,
+      "NAMA": "AHMAD ULIL IHZA LA MELA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KENDARI",
+      "KAB/KOTA": "KOTA KENDARI",
+      "PROVINSI": "SULAWESI TENGGARA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 57,
+      "NAMA": "HARKO SUSILO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MASOHI",
+      "KAB/KOTA": "KAB. MALUKU TENGAH",
+      "PROVINSI": "MALUKU"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 58,
+      "NAMA": "KETUT TOTO SURYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 59,
+      "NAMA": "GDE ARCHIPREMA D S A",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SELONG",
+      "KAB/KOTA": "KAB. LOMBOK TIMUR",
+      "PROVINSI": "NUSA TENGGARA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 60,
+      "NAMA": "CLEMENS G M MBAO",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK FRATERAN NDAO",
+      "KAB/KOTA": "KAB. ENDE",
+      "PROVINSI": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 61,
+      "NAMA": "NIWAYAN MIRA T LAMIA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 4 JAYAPURA",
+      "KAB/KOTA": "KOTA JAYAPURA",
+      "PROVINSI": "PAPUA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 62,
+      "NAMA": "GIFFARI YUSRUL K",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 CURUP",
+      "KAB/KOTA": "KAB. REJANG LEBONG",
+      "PROVINSI": "BENGKULU"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 63,
+      "NAMA": "ALMIRA F MARSAOLY",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 TERNATE",
+      "KAB/KOTA": "KOTA TERNATE",
+      "PROVINSI": "MALUKU UTARA"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 64,
+      "NAMA": "KRIESNAWAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK BPK PENABUR GADING SERPONG",
+      "KAB/KOTA": "KAB. TANGERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 65,
+      "NAMA": "CHRISTIAN LEONARDI P R",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK BPK PENABUR GADING SERPONG",
+      "KAB/KOTA": "KAB. TANGERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 66,
+      "NAMA": "ANDREAS ADINATHA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK BPK PENABUR BINTARO",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 67,
+      "NAMA": "AKMAL REZA AHKAM",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 68,
+      "NAMA": "ADAM SYAMMAS ZAKI P",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 69,
+      "NAMA": "FAIZAL HUSNI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 70,
+      "NAMA": "M JIHAD UMMUL QURO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 71,
+      "NAMA": "NUGRAH ABIL AKBAR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MANGGAR",
+      "KAB/KOTA": "KAB. BELITUNG TIMUR",
+      "PROVINSI": "KEP. BANGKA BELITUNG"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 72,
+      "NAMA": "JUSKY KELVIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA YOS SUDARSO BATAM",
+      "KAB/KOTA": "KOTA BATAM",
+      "PROVINSI": "KEPULAUAN RIAU"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 73,
+      "NAMA": "FITRI I PANGESTU",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA AVEROS SORONG",
+      "KAB/KOTA": "KOTA SORONG",
+      "PROVINSI": "PAPUA BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 74,
+      "NAMA": "ADITYA PRASETYO SR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MAJENE",
+      "KAB/KOTA": "KAB. MAJENE",
+      "PROVINSI": "SULAWESI BARAT"
+    },
+    {
+      "MAPEL": "FISIKA",
+      "NO": 75,
+      "NAMA": "IMMANUEL CHRISTOFEL Y Y",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TARAKAN",
+      "KAB/KOTA": "KOTA TARAKAN",
+      "PROVINSI": "KALIMANTAN UTARA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 1,
+      "NAMA": "JOSHUA JULIO ADIDJAJA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK 1 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 2,
+      "NAMA": "GERSON NATANAEL",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK 3 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 3,
+      "NAMA": "DAVID TIMOTHY PANJAITAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 28 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 4,
+      "NAMA": "IASBI FATIH A",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MH THAMRIN JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 5,
+      "NAMA": "NANDO REZA PRATAMA",
+      "L/P": "L",
+      "KLS": "-",
+      "ASAL SEKOLAH": "SMAN MH THAMRIN JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 6,
+      "NAMA": "JESSICA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA FONS VITAE 1 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 7,
+      "NAMA": "CHRISTOPHER KEVIN WIJAY",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK 5 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA UTARA",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 8,
+      "NAMA": "FAHMY FATHURRAHMAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA IT AL BINAA IBS",
+      "KAB/KOTA": "KAB. BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 9,
+      "NAMA": "MUHAMMAD ADITYA SAID",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KOTA BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 10,
+      "NAMA": "IRSAN BAGAS MAULANA H",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KOTA BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 11,
+      "NAMA": "LINGGA ALIF MUTTAQIEN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 KOTA BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 12,
+      "NAMA": "AZHOTMIAN PASTIKA M",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KOTA BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 13,
+      "NAMA": "M RIDHO SETIYAWAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 TAHUNAN",
+      "KAB/KOTA": "KAB. JEPARA",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 14,
+      "NAMA": "TOHARI CATUR P",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN SRAGEN BBS",
+      "KAB/KOTA": "KAB. SRAGEN",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 15,
+      "NAMA": "RENALDY YUSUF W",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN SRAGEN BBS",
+      "KAB/KOTA": "KAB. SRAGEN",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 16,
+      "NAMA": "NEBIBA ABDUL",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MAGELANG",
+      "KAB/KOTA": "KOTA MAGELANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 17,
+      "NAMA": "MAULANA IMAM SEPTYO P",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 18,
+      "NAMA": "IHYAR KURNIA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SEMESTA BBS SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 19,
+      "NAMA": "ATIKA NUR ROCHMAH",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA SEMESTA BBS SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 20,
+      "NAMA": "BERLIAN GABRIEL M",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KARANGTURI SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 21,
+      "NAMA": "CHENG KATRIN CORNELIA C",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KOLESE LOYOLA SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 22,
+      "NAMA": "AULIA SALSABELLA S",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 23,
+      "NAMA": "AZYUMAR LUTHFI M A",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 24,
+      "NAMA": "MUHAMMAD RIAN MAULANA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BANTUL",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 25,
+      "NAMA": "AMELIA GUNAWAN",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 2 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 26,
+      "NAMA": "ADIBA NUR ASHRI R",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 27,
+      "NAMA": "ABRAHAM NATHANAEL K",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 1 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 28,
+      "NAMA": "NABILAH ROHADATUL AISY",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 29,
+      "NAMA": "VIAN CHANDRA SETIAWAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 GIRI",
+      "KAB/KOTA": "KAB. BANYUWANGI",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 30,
+      "NAMA": "KEVIN JAYAATMAJA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK GLORIA 1 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 31,
+      "NAMA": "MUHAMMAD THARIQ SIREGAR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MODAL BANGSA ACEH",
+      "KAB/KOTA": "KAB. ACEH BESAR",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 32,
+      "NAMA": "MUHAMMAD DANI SIRAIT",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA UNGGULAN CT FOUNDATION",
+      "KAB/KOTA": "KAB. DELI SERDANG",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 33,
+      "NAMA": "RAMA DIKKY LAROSA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KABANJAHE",
+      "KAB/KOTA": "KAB. KARO",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 34,
+      "NAMA": "NICO JEREMIA SAMOSIR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA UNGGUL DEL LAGUBOTI",
+      "KAB/KOTA": "KAB. TOBA SAMOSIR",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 35,
+      "NAMA": "AURELIO ONGKO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SUTOMO 1 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 36,
+      "NAMA": "MIKHA CLAUDIA L BR T",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SUTOMO 2 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 37,
+      "NAMA": "ILHAM TRIOELSA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PADANG PANJANG",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 38,
+      "NAMA": "NIKO FEBRIAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SUMATERA BARAT",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 39,
+      "NAMA": "KANIA DIANTIKA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 PEKANBARU",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 40,
+      "NAMA": "MUHAMMAD RIFQI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN MODEL JAMBI",
+      "KAB/KOTA": "KOTA JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 41,
+      "NAMA": "M IRHASH SHALIHIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 4 TANJAB TIMUR",
+      "KAB/KOTA": "KAB. TANJUNG JABUNG TIMUR",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 42,
+      "NAMA": "DELLA SINTHYA GITA A",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 17 PALEMBANG",
+      "KAB/KOTA": "KOTA PALEMBANG",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 43,
+      "NAMA": "M SATRIO DWI CAHYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 17 PALEMBANG",
+      "KAB/KOTA": "KOTA PALEMBANG",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 44,
+      "NAMA": "FRANSTIO SETIAWAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA XAVERIUS BANDAR LAMPUNG",
+      "KAB/KOTA": "KOTA BANDAR LAMPUNG",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 45,
+      "NAMA": "HANA MUTIARA NIRWANA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA AL KAUTSAR",
+      "KAB/KOTA": "KOTA BANDAR LAMPUNG",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 46,
+      "NAMA": "IHSAN ARIFIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN 1 METRO",
+      "KAB/KOTA": "KOTA METRO",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 47,
+      "NAMA": "ALEXANDER FERNANDO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA GEMBALA BAIK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 48,
+      "NAMA": "LUTFIA PAPITA D R",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SAMPIT",
+      "KAB/KOTA": "KAB. KOTAWARINGIN TIMUR",
+      "PROVINSI": "KALIMANTAN TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 49,
+      "NAMA": "AMALA KARIMA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN BANUA KALSEL BBS",
+      "KAB/KOTA": "KAB. BANJAR",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 50,
+      "NAMA": "RIZCA SHAFIRA S M",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BALIKPAPAN",
+      "KAB/KOTA": "KOTA BALIKPAPAN",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 51,
+      "NAMA": "AMELIA ANTAKUSUMAN",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA EBEN HAEZA 1 MANADO",
+      "KAB/KOTA": "KOTA MANADO",
+      "PROVINSI": "SULAWESI UTARA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 52,
+      "NAMA": "MOH ASNUR SY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA AL AZHAR PALU",
+      "KAB/KOTA": "KOTA PALU",
+      "PROVINSI": "SULAWESI TENGAH"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 53,
+      "NAMA": "AYU SRI WAHYUNI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAI ATHIRAH BONE",
+      "KAB/KOTA": "KAB. BONE",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 54,
+      "NAMA": "FAJAR SAID ARIF",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TAKALAR",
+      "KAB/KOTA": "KAB. TAKALAR",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 55,
+      "NAMA": "REGINA R GUNAWAN",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK RAJAWALI MAKASAR",
+      "KAB/KOTA": "KOTA MAKASSAR",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 56,
+      "NAMA": "MUH ALDI SIDIK",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 BAUBAU",
+      "KAB/KOTA": "KOTA BAU-BAU",
+      "PROVINSI": "SULAWESI TENGGARA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 57,
+      "NAMA": "MERLIN OEITHEURISA",
+      "L/P": "p",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 AMBON",
+      "KAB/KOTA": "KOTA AMBON",
+      "PROVINSI": "MALUKU"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 58,
+      "NAMA": "AYU TRISNA DARMAYANTI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 4 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 59,
+      "NAMA": "WIRA ARI SETIARINI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 4 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 60,
+      "NAMA": "ARYA MAHA YOGA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 SUMBAWA BESAR",
+      "KAB/KOTA": "KAB. SUMBAWA BESAR",
+      "PROVINSI": "NUSA TENGGARA BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 61,
+      "NAMA": "ANDREAS WATANG",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK GIOVANNI KUPANG",
+      "KAB/KOTA": "KOTA KUPANG",
+      "PROVINSI": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 62,
+      "NAMA": "NUR JANNAH VIRSYA PUTRI",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 4 JAYAPURA",
+      "KAB/KOTA": "KOTA JAYAPURA",
+      "PROVINSI": "PAPUA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 63,
+      "NAMA": "SALLY MONITA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 CURUP",
+      "KAB/KOTA": "KAB. REJANG LEBONG",
+      "PROVINSI": "BENGKULU"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 64,
+      "NAMA": "FARHAH FAHYUNA A",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 TERNATE",
+      "KAB/KOTA": "KOTA TERNATE",
+      "PROVINSI": "MALUKU UTARA"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 65,
+      "NAMA": "M RIDHO PRIYO JATMIKO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAI NURUL FIKRI BS CINANGKA",
+      "KAB/KOTA": "KAB. SERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 66,
+      "NAMA": "ELSA YOVITA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK BPK PENABUR GADING SERPONG",
+      "KAB/KOTA": "KAB. TANGERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 67,
+      "NAMA": "WELLY TANSIL",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK BPK PENABUR GADING SERPONG",
+      "KAB/KOTA": "KAB. TANGERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 68,
+      "NAMA": "FAHMI NAUFAL RIZKI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 69,
+      "NAMA": "M WILDAN HAKIM",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 70,
+      "NAMA": "RAFLY AUDIFA RACHMAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 71,
+      "NAMA": "IBROHIM MUHAMMAD",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 72,
+      "NAMA": "ULVA DEWIYANTI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PEMALI",
+      "KAB/KOTA": "KAB. BANGKA",
+      "PROVINSI": "KEP. BANGKA BELITUNG"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 73,
+      "NAMA": "ALFIAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TANJUNG PINANG",
+      "KAB/KOTA": "KOTA TANJUNG PINANG",
+      "PROVINSI": "KEPULAUAN RIAU"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 74,
+      "NAMA": "NUR AISYAH KAMING",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA AVEROS KOTA SORONG",
+      "KAB/KOTA": "KOTA SORONG",
+      "PROVINSI": "PAPUA BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 75,
+      "NAMA": "MUH RESKIAWAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 MAJENE",
+      "KAB/KOTA": "KAB. MAJENE",
+      "PROVINSI": "SULAWESI BARAT"
+    },
+    {
+      "MAPEL": "KIMIA",
+      "NO": 76,
+      "NAMA": "JAYESTHUJULIANTOJAKARIA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TARAKAN",
+      "KAB/KOTA": "KOTA TARAKAN",
+      "PROVINSI": "KALIMANTAN UTARA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 1,
+      "NAMA": "DEGOLDIE SONNY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 33 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 2,
+      "NAMA": "SERANO TANNASON",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA BINA BANGSA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 3,
+      "NAMA": "ANDREAS CENDRANATA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK 3 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 4,
+      "NAMA": "MUHAMMAD INDRA R",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 34 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 5,
+      "NAMA": "NADHIRA SALSABILA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MH THAMRIN JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 6,
+      "NAMA": "KEZIA SULAMI",
+      "L/P": "P",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMP IPEKA SUNTER JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA UTARA",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 7,
+      "NAMA": "EDWIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK IPEKA PLUIT JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA UTARA",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 8,
+      "NAMA": "HANIAH WAFA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA DWIWARNA BOGOR",
+      "KAB/KOTA": "KAB. BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 9,
+      "NAMA": "EZRA ANUGERAH BANGUN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK 1 BPK PENABUR BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 10,
+      "NAMA": "MUH RIDHO ANANDA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA PRIBADI BBS BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 11,
+      "NAMA": "ILHAM ARYASUTA J",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA PRIBADI BBS BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 12,
+      "NAMA": "WILDAN FAHMI GUNAWAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 13,
+      "NAMA": "TIRTA ABIMANYU PURNOMO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 14,
+      "NAMA": "FERRO GERALDI HARDIAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA PRIBADI BBS DEPOK",
+      "KAB/KOTA": "KOTA DEPOK",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 15,
+      "NAMA": "FIRMAN HADI PRAYOGA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 DEPOK",
+      "KAB/KOTA": "KOTA DEPOK",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 16,
+      "NAMA": "ASIF HUMMAM RAIS",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 PURWOKERTO",
+      "KAB/KOTA": "KAB. BANYUMAS",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 17,
+      "NAMA": "MUHAMMAD YUSUF SHOLEH",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA AL IRSYAD PURWOKERTO",
+      "KAB/KOTA": "KAB. BANYUMAS",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 18,
+      "NAMA": "ENDRAWAN ANDIKA W",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 19,
+      "NAMA": "YONAS ADIEL WIGUNA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KOLESE LOYOLA SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 20,
+      "NAMA": "MARGARET TANJUNG C",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SEMESTA SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 21,
+      "NAMA": "KWEE LUNG SIN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KARANGTURI SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 22,
+      "NAMA": "STEVEN SEAN HOEDISON W",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KARANGTURI SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 23,
+      "NAMA": "ALVIN FARKHAN RAMADHANI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 24,
+      "NAMA": "DHIPTA RADITYA Y",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 25,
+      "NAMA": "MUH SALMAN AL FARISI",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMPN 2 PAMEKASAN",
+      "KAB/KOTA": "KAB. PAMEKASAN",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 26,
+      "NAMA": "AKHMAD RAMADHAN YAMIN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 PAMEKASAN",
+      "KAB/KOTA": "KAB. PAMEKASAN",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 27,
+      "NAMA": "IRSYAD LUTFI ELFAHMI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 28,
+      "NAMA": "FATA NUGRAHA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 29,
+      "NAMA": "USAMA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 5 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 30,
+      "NAMA": "SERGIO VIERI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA INTAN PERMATA HATI",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 31,
+      "NAMA": "CHRISTIAN SHIADY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 2 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 32,
+      "NAMA": "MAULANA AKMAL",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN MODAL BANGSA ACEH",
+      "KAB/KOTA": "KAB. ACEH BESAR",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 33,
+      "NAMA": "SATRIO SULAKSONO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MATAULI PANDAN",
+      "KAB/KOTA": "KAB. TAPANULI TENGAH",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 34,
+      "NAMA": "PITERSON SATIO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KALAM KUDUS",
+      "KAB/KOTA": "KOTA PEMATANG SIANTAR",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 35,
+      "NAMA": "SUHENDI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA METHODIST 3 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 36,
+      "NAMA": "NOVI ADRI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SUMATERA BARAT",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 37,
+      "NAMA": "REYHAN F IRIANTO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PADANG PANJANG",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 38,
+      "NAMA": "RIDHO PRATAMA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BUKITTINGGI",
+      "KAB/KOTA": "KOTA BUKITTINGGI",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 39,
+      "NAMA": "DELLA HERLI RAHMAN",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TUALANG",
+      "KAB/KOTA": "KAB. SIAK",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 40,
+      "NAMA": "HANSVIN TANDI SUGATA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA XAVERIUS 1 JAMBI",
+      "KAB/KOTA": "KOTA JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 41,
+      "NAMA": "M RAFLI AL KHADAFI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 17 PALEMBANG",
+      "KAB/KOTA": "KOTA PALEMBANG",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 42,
+      "NAMA": "FATHUR RACHMAN HUSEIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KUSUMA BANGSA PALEMBANG",
+      "KAB/KOTA": "KOTA PALEMBANG",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 43,
+      "NAMA": "M HENDRY PRASETYA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 BANDA LAMPUNG",
+      "KAB/KOTA": "KOTA BANDAR LAMPUNG",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 44,
+      "NAMA": "WINDI CHANDRA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SANTU PETRUS PONTIANAK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 45,
+      "NAMA": "SATRIO CIPTO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 SAMPIT",
+      "KAB/KOTA": "KAB. KOTAWARINGIN TIMUR",
+      "PROVINSI": "KALIMANTAN TENGAH"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 46,
+      "NAMA": "ARYA SETA WICAKSANA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN BANUA KALSEL BBS",
+      "KAB/KOTA": "KAB. BANJAR",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 47,
+      "NAMA": "IZZATUL MUTTAQIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BALIKPAPAN",
+      "KAB/KOTA": "KOTA BALIKPAPAN",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 48,
+      "NAMA": "JOSUA WARANEY SUPIT",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TONDANO",
+      "KAB/KOTA": "KAB. MINAHASA",
+      "PROVINSI": "SULAWESI UTARA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 49,
+      "NAMA": "MAGFIRAH NURSAPHIRA A",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MODEL TERPADU MADANI PALU",
+      "KAB/KOTA": "KOTA PALU",
+      "PROVINSI": "SULAWESI TENGAH"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 50,
+      "NAMA": "FADHIL MUSAAD",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 TINGGIMONCONG",
+      "KAB/KOTA": "KAB. GOWA",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 51,
+      "NAMA": "ANDIKA RAHIM DARUSALAM",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KENDARI",
+      "KAB/KOTA": "KOTA KENDARI",
+      "PROVINSI": "SULAWESI TENGGARA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 52,
+      "NAMA": "MAGFIRAH NAHDA LATUPONO",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 MASOHI",
+      "KAB/KOTA": "KAB. MALUKU TENGAH",
+      "PROVINSI": "MALUKU"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 53,
+      "NAMA": "I NYM HERY SUMERTAYASA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MENGWI",
+      "KAB/KOTA": "KAB. BADUNG",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 54,
+      "NAMA": "PND KT CAHYA NUGRAHA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 55,
+      "NAMA": "STEVEN KUSUMAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 4 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 56,
+      "NAMA": "NORMAN BINTANG",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 4 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 57,
+      "NAMA": "FAKHRY NUR MAHMUDI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 SELONG",
+      "KAB/KOTA": "KAB. LOMBOK TIMUR",
+      "PROVINSI": "NUSA TENGGARA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 58,
+      "NAMA": "MAYLAN TRIANA PIDI",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 KOTA KUPANG",
+      "KAB/KOTA": "KOTA KUPANG",
+      "PROVINSI": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 59,
+      "NAMA": "ANGGORO ADI NEGORO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 MERAUKE",
+      "KAB/KOTA": "KAB. MERAUKE",
+      "PROVINSI": "PAPUA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 60,
+      "NAMA": "NABILA RAHMADANI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 5 BENGKULU",
+      "KAB/KOTA": "KOTA BENGKULU",
+      "PROVINSI": "BENGKULU"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 61,
+      "NAMA": "AFRIZAL ODE",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 HALMAHERA BARAT",
+      "KAB/KOTA": "KAB. HALMAHERA BARAT",
+      "PROVINSI": "MALUKU UTARA"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 62,
+      "NAMA": "KEVIN ARIMETTA TIONANDA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK BPK PENABUR GADING SERPONG",
+      "KAB/KOTA": "KAB. TANGERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 63,
+      "NAMA": "DANIEL ALFRED WIDJAJA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK BPK PENABUR GADING SERPONG",
+      "KAB/KOTA": "KAB. TANGERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 64,
+      "NAMA": "ALDI HILMAN RAMADHANI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 TANGERANG SELATAN",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 65,
+      "NAMA": "PRAWIRO HADI TRIYONO",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 TANGERANG SELATAN",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 66,
+      "NAMA": "AHMAD FAHMI PRATAMA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 67,
+      "NAMA": "ENSOF BARHAMI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 68,
+      "NAMA": "AULIA NUR ADIB PHASYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 69,
+      "NAMA": "MUHAMMAD ASHLAH S",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 70,
+      "NAMA": "ASYRAF HUMAM ARRAFIFIN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 71,
+      "NAMA": "PATRISIO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SANTO YOSEF",
+      "KAB/KOTA": "KOTA PANGKAL PINANG",
+      "PROVINSI": "KEP. BANGKA BELITUNG"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 72,
+      "NAMA": "REYNALDO WIJAYA HENDRY",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA MAITREYAWIRA BATAM",
+      "KAB/KOTA": "KOTA BATAM",
+      "PROVINSI": "KEPULAUAN RIAU"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 73,
+      "NAMA": "RIZAL AKBAR KOMARUDIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA AVEROS KOTA SORONG",
+      "KAB/KOTA": "KOTA SORONG",
+      "PROVINSI": "PAPUA BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 74,
+      "NAMA": "SULAEMAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TOPOYO",
+      "KAB/KOTA": "KAB. MAMUJU TENGAH",
+      "PROVINSI": "SULAWESI BARAT"
+    },
+    {
+      "MAPEL": "KOMPUTER",
+      "NO": 75,
+      "NAMA": "KEVIN LIYANSAH",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TARAKAN",
+      "KAB/KOTA": "KOTA TARAKAN",
+      "PROVINSI": "KALIMANTAN UTARA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 1,
+      "NAMA": "NICHOLAS YAMAHOKI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 78 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 2,
+      "NAMA": "WILNIE CHUA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK 1 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 3,
+      "NAMA": "VINCENT AUGUSTA P",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK 3 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 4,
+      "NAMA": "REFAEL ALFA BUDIMAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK 3 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 5,
+      "NAMA": "R HIMAN HARYO TEGUH D",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN MH THAMRIN JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 6,
+      "NAMA": "LUTHFIAN ABY N",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MH THAMRIN JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 7,
+      "NAMA": "ADIKA PUTRA PRADANA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA IT AL BINAA BBS",
+      "KAB/KOTA": "KAB. BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 8,
+      "NAMA": "ROZMA MAGHFIRA ADANI",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA DWIWARNA BOGOR",
+      "KAB/KOTA": "KAB. BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 9,
+      "NAMA": "ADRIANA VIOLA MIRANDA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 10,
+      "NAMA": "JASON WIJAYA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK BPK PENABUR BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 11,
+      "NAMA": "RAFLY M RAIS AFFANDI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 12,
+      "NAMA": "DEINRA AUFA MAHDA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 13,
+      "NAMA": "SUHARJA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 CIREBON",
+      "KAB/KOTA": "KOTA CIREBON",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 14,
+      "NAMA": "HENDRA GUSMAWAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 KARANGANYAR",
+      "KAB/KOTA": "KAB. KARANGANYAR",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 15,
+      "NAMA": "BAGUS WIJAYA KUSUMA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA TARUNA NUSANTARA",
+      "KAB/KOTA": "KAB. MAGELANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 16,
+      "NAMA": "IGNASIUS WILLY NUGROHO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PATI",
+      "KAB/KOTA": "KAB. PATI",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 17,
+      "NAMA": "JASMINE NUR HIDAYAH",
+      "L/P": "-",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PATI",
+      "KAB/KOTA": "KAB. PATI",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 18,
+      "NAMA": "ROIHAN MOHAMAD IQBAL",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PURWOREJO",
+      "KAB/KOTA": "KAB. PURWOREJO",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 19,
+      "NAMA": "M ILHAM DHIYA R",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SRAGEN BBS",
+      "KAB/KOTA": "KAB. SRAGEN",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 20,
+      "NAMA": "HANDIKA PUTRA P",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA SRAGEN BBS",
+      "KAB/KOTA": "KAB. SRAGEN",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 21,
+      "NAMA": "TIMOTHY JORDAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KALAM KUDUS SKH",
+      "KAB/KOTA": "KAB. SUKOHARJO",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 22,
+      "NAMA": "SYAILENDRA KARUNA S",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMPN 2 TEMANGGUNG",
+      "KAB/KOTA": "KAB. TEMANGGUNG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 23,
+      "NAMA": "NICOLAS HOSEA C",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 MAGELANG",
+      "KAB/KOTA": "KOTA MAGELANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 24,
+      "NAMA": "RIO NEVIN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK 1 SALATIGA",
+      "KAB/KOTA": "KOTA SALATIGA",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 25,
+      "NAMA": "SALSABIILAA ROIHANAH",
+      "L/P": "P",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMP SEMESTA SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 26,
+      "NAMA": "ROYYAN ADIWIJAYA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 27,
+      "NAMA": "EKAPAKSI WISNUMURTI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "DI YOGYAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 28,
+      "NAMA": "HANA NURHIDAYATI UTAMI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "DI YOGYAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 29,
+      "NAMA": "MUHAMMAD FARHAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "DI YOGYAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 30,
+      "NAMA": "IZZATUL ISLAMI",
+      "L/P": "P",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMPN 1 BUNGAH",
+      "KAB/KOTA": "KAB. GRESIK",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 31,
+      "NAMA": "MUHAMMAD IQBAL MUBAROK",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 GRESIK",
+      "KAB/KOTA": "KAB. GRESIK",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 32,
+      "NAMA": "ARUM INDAH RAHMAWATI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BLITAR",
+      "KAB/KOTA": "KOTA BLITAR",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 33,
+      "NAMA": "ALFINA HUSNI DZARRAH",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 MADIUN",
+      "KAB/KOTA": "KOTA MADIUN",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 34,
+      "NAMA": "OLIVIA TJAHJONO",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK ST ALBERTUS",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 35,
+      "NAMA": "SASKIA ARDINE ZHAFIRA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 36,
+      "NAMA": "M IQBAL ADI PRATAMA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 5 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 37,
+      "NAMA": "ADRIEL HERNANDO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 2 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 38,
+      "NAMA": "RIZKY APRILIZA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN UNGGUL KABAS",
+      "KAB/KOTA": "KAB. ACEH SELATAN",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 39,
+      "NAMA": "GILBERT EMERSON",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SUTOMO 1 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 40,
+      "NAMA": "ANDREA LAURENTIUS",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA SUTOMO 1 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 41,
+      "NAMA": "MANCHO RESVANA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SUMATERA BARAT",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 42,
+      "NAMA": "VINCENT LAU",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA DARMA YUDHA",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 43,
+      "NAMA": "ADRIAN RINALDO O S",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 8 PEKANBARU",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 44,
+      "NAMA": "GRACE FELINNA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA BINA KASIH JAMBI",
+      "KAB/KOTA": "KOTA JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 45,
+      "NAMA": "MUHAMMAD PALAR WIJAYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KUSUMA BANGSA",
+      "KAB/KOTA": "KOTA PALEMBANG",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 46,
+      "NAMA": "MUHAMMAD FAQIH A H",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 METRO",
+      "KAB/KOTA": "KOTA METRO",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 47,
+      "NAMA": "BRIGITTA CINDY LAUREN",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA IMMANUEL PONTIANAK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 48,
+      "NAMA": "AYU IKLIMA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SEMATUJAYA",
+      "KAB/KOTA": "KAB. LAMANDAU",
+      "PROVINSI": "KALIMANTAN TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 49,
+      "NAMA": "MUZLIATI",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 PARINGIN",
+      "KAB/KOTA": "KAB. BALANGAN",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 50,
+      "NAMA": "EVA ROSIDAH",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 BALIKPAPAN",
+      "KAB/KOTA": "KOTA BALIKPAPAN",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 51,
+      "NAMA": "RIZALDY DANUPOYO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 9 MANADO",
+      "KAB/KOTA": "KOTA MANADO",
+      "PROVINSI": "SULAWESI UTARA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 52,
+      "NAMA": "ANGGA DWISATYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PALU",
+      "KAB/KOTA": "KOTA PALU",
+      "PROVINSI": "SULAWESI TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 53,
+      "NAMA": "FADHILAH YUSRA DELLY M",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAI ATHIRAH 1 MAKASSAR",
+      "KAB/KOTA": "KOTA MAKASSAR",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 54,
+      "NAMA": "LA MANDE",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 WOLOWA",
+      "KAB/KOTA": "KAB. BUTON",
+      "PROVINSI": "SULAWESI TENGGARA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 55,
+      "NAMA": "GIOVALDO JUEN LUMOLY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 AMBON",
+      "KAB/KOTA": "KOTA AMBON",
+      "PROVINSI": "MALUKU"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 56,
+      "NAMA": "YUSTIKA SARI",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 4 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 57,
+      "NAMA": "I PUTU PRAKASA W",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 4 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 58,
+      "NAMA": "DALILA AFINA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MATARAM",
+      "KAB/KOTA": "KOTA MATARAM",
+      "PROVINSI": "NUSA TENGGARA BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 59,
+      "NAMA": "AURELIA PIA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA REGINA PACIS BAJAWA",
+      "KAB/KOTA": "KAB. NGADA",
+      "PROVINSI": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 60,
+      "NAMA": "GITA AQILAH NUHA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 JAYAPURA",
+      "KAB/KOTA": "KOTA JAYAPURA",
+      "PROVINSI": "PAPUA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 61,
+      "NAMA": "ABE NOVAN ADITYA RAHMAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 CURUP UTARA",
+      "KAB/KOTA": "KAB. REJANG LEBONG",
+      "PROVINSI": "BENGKULU"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 62,
+      "NAMA": "AMALIA MAGFIRAH",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 TERNATE",
+      "KAB/KOTA": "KOTA TERNATE",
+      "PROVINSI": "MALUKU UTARA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 63,
+      "NAMA": "STEFAN ARISATYA T",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA BPK PENABUR GADING SERPONG",
+      "KAB/KOTA": "KAB. TANGERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 64,
+      "NAMA": "ACHMAD BAIHAQI ULMA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 65,
+      "NAMA": "DANANG DWI PRASETYO",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 66,
+      "NAMA": "ROYYAN IFTIKHOR AMANY",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 TANGERANG SELATAN",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 67,
+      "NAMA": "IHSAN FAUZAN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 68,
+      "NAMA": "KHAIRUNNISA F ILATO",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 69,
+      "NAMA": "FARISHA SAFRINA NUR",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 GANTUNG",
+      "KAB/KOTA": "KAB. BELITUNG TIMUR",
+      "PROVINSI": "KEP. BANGKA BELITUNG"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 70,
+      "NAMA": "M TOHA TULUS DHARMAWAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BATAM",
+      "KAB/KOTA": "KOTA BATAM",
+      "PROVINSI": "KEPULAUAN RIAU"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 71,
+      "NAMA": "DANA FEBRI KARTIKA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 MANOKWARI",
+      "KAB/KOTA": "KAB. MANOKWARI",
+      "PROVINSI": "PAPUA BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 72,
+      "NAMA": "SRI WIDYARSI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MAJENE",
+      "KAB/KOTA": "KAB. MAJENE",
+      "PROVINSI": "SULAWESI BARAT"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 73,
+      "NAMA": "BENEDIKTA AURELIA F",
+      "L/P": "P",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMPN 1 TARAKAN",
+      "KAB/KOTA": "KOTA TARAKAN",
+      "PROVINSI": "KALIMANTAN UTARA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 74,
+      "NAMA": "ROBIN CHANDRA*",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK 3 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 75,
+      "NAMA": "WILSON GOMARGA*",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK IPEKA SUNTER JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA UTARA",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 76,
+      "NAMA": "DEWAN SILASAKTI BUWANA*",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SRAGEN BBS",
+      "KAB/KOTA": "KAB. SRAGEN",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 77,
+      "NAMA": "FATIN CAMILLA AZHARY*",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KENDAL",
+      "KAB/KOTA": "KAB. KENDAL",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 78,
+      "NAMA": "IHYA FAKHRURIZAL AMIN*",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "JAWA TIMUR",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 79,
+      "NAMA": "AMELIA NUR KHASANAH*",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "DI YOGYAKARTA"
+    },
+    {
+      "MAPEL": "BIOLOGI",
+      "NO": 80,
+      "NAMA": "MUHAMMAD IKHSAN*",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 1,
+      "NAMA": "MICHAEL WIDJAJA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 2,
+      "NAMA": "AMIRA AZ ZAHRA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 8 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 3,
+      "NAMA": "DZAKY IRFANSYAH",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 39 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 4,
+      "NAMA": "GABRIELA LEILANI WIJAYA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK 5 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA UTARA",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 5,
+      "NAMA": "SENA MOSES SATRIA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 CIBINONG",
+      "KAB/KOTA": "KAB. BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 6,
+      "NAMA": "IQBAL DAFFA PRADANA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 4 BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 7,
+      "NAMA": "FEBRIAN FADILA RIZKY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 8,
+      "NAMA": "HASNAA SALSABILA R",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 9,
+      "NAMA": "HARRIS FIKREN TAUFIK",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KOTA BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 10,
+      "NAMA": "IVANNSA R MOUSSAFY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 DEPOK",
+      "KAB/KOTA": "KOTA DEPOK",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 11,
+      "NAMA": "DEFISKA ANDANG N",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PURWOKERTO",
+      "KAB/KOTA": "KAB. BANYUMAS",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 12,
+      "NAMA": "GILANG ENGGAR LANA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 PURWOKERTO",
+      "KAB/KOTA": "KAB. BANYUMAS",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 13,
+      "NAMA": "LUCKY FEBRY VALENTINO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BOYOLALI",
+      "KAB/KOTA": "KAB. BOYOLALI",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 14,
+      "NAMA": "ALAN ERTANTO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KEBUMEN",
+      "KAB/KOTA": "KAB. KEBUMEN",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 15,
+      "NAMA": "AINUR RIDHO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN 2 KUDUS",
+      "KAB/KOTA": "KAB. KUDUS",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 16,
+      "NAMA": "M FAHMI FIRMANSAH P",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN SRAGEN BBS",
+      "KAB/KOTA": "KAB. SRAGEN",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 17,
+      "NAMA": "SUWAIBATUL ANNISA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA SEMESTA BBS SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 18,
+      "NAMA": "ABDAN MALAKA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SEMESTA BBS SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 19,
+      "NAMA": "MUJAHID ALHAQ",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 20,
+      "NAMA": "DIANNOVI ISLAMIYATI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 21,
+      "NAMA": "GALUH YOGA PRASTYO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KALASAN",
+      "KAB/KOTA": "KAB. SLEMAN",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 22,
+      "NAMA": "MUHAMMAD NASHIRUL HAQ",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 23,
+      "NAMA": "SUKMA HANINDYA SARI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 24,
+      "NAMA": "RIYANTO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 25,
+      "NAMA": "IRVAN ALBERT RIADY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 2 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 26,
+      "NAMA": "FRANSISKA FORTUNATA T",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK PETRA 2 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 27,
+      "NAMA": "AULIA SYAFITRI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 28,
+      "NAMA": "ARLIF NABILATUR R",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 29,
+      "NAMA": "MUHAMMAD SAIFUDDIN Z M",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA DARUL ULUM 2 JOMBANG",
+      "KAB/KOTA": "KAB. JOMBANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 30,
+      "NAMA": "YUWAN ANMADETA OKTARIO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MODAL BANGSA ACEH",
+      "KAB/KOTA": "KAB. ACEH BESAR",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 31,
+      "NAMA": "JESSLYN JANE",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SUTOMO 1 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 32,
+      "NAMA": "SETO JULIANTO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA METHODIST 3 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 33,
+      "NAMA": "DZAKY ILHAM MUYASAR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PARIAMAN",
+      "KAB/KOTA": "KOTA PARIAMAN",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 34,
+      "NAMA": "FARID WALDI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PADANG PANJANG",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 35,
+      "NAMA": "FRINANDA ILHAM P",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PADANG PANJANG",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 36,
+      "NAMA": "NAUFALDI IZRAL",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN PLUS PROVINSI RIAU",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 37,
+      "NAMA": "FADEL MUHAMMAD",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PEKANBARU",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 38,
+      "NAMA": "HABIBUL KHOIR LBS",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA JAMBI",
+      "KAB/KOTA": "KAB. MUARO JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 39,
+      "NAMA": "DEMI ALFARIZHI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 INDRALAYA",
+      "KAB/KOTA": "KAB. OGAN ILIR",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 40,
+      "NAMA": "AKHMAD ASHARI TRIWIJAYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA AL KAUTSAR",
+      "KAB/KOTA": "KOTA BANDAR LAMPUNG",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 41,
+      "NAMA": "MUHAMMAD RAHALDI TAHER",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 BANDAR LAMPUNG",
+      "KAB/KOTA": "KOTA BANDAR LAMPUNG",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 42,
+      "NAMA": "LEONARDUS BERLIANTO S",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK IMMANUEL PONTIANAK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 43,
+      "NAMA": "JONATHAN TEOPILUS",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK IMMANUEL PONTIANAK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 44,
+      "NAMA": "NOVIA UTARI PUTRI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PANGKALAN",
+      "KAB/KOTA": "KAB. KOTAWARINGIN BARAT",
+      "PROVINSI": "KALIMANTAN TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 45,
+      "NAMA": "DWI SISWANTO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN BANUA KALSEL BBS",
+      "KAB/KOTA": "KAB. BANJAR",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 46,
+      "NAMA": "MUHAMMAD FANDY ILHAMI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN BANUA KALSEL BBS",
+      "KAB/KOTA": "KAB. BANJAR",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 47,
+      "NAMA": "FAJAR NUR MAJID",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA YPK BONTANG",
+      "KAB/KOTA": "KOTA BONTANG",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 48,
+      "NAMA": "BAIQ MAULINDA ULFAH",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 TENGGARONG",
+      "KAB/KOTA": "KAB. KUTAI KARTANEGARA",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 49,
+      "NAMA": "KEZIA M G LANGIE",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA LOKON ST NIKOLAUS",
+      "KAB/KOTA": "KOTA TOMOHON",
+      "PROVINSI": "SULAWESI UTARA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 50,
+      "NAMA": "DANANG DARMAWAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA AL AZHAR PALU",
+      "KAB/KOTA": "KOTA PALU",
+      "PROVINSI": "SULAWESI TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 51,
+      "NAMA": "SITTI RAHMAWATI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MODEL TERPADU MADANI PALU",
+      "KAB/KOTA": "KOTA PALU",
+      "PROVINSI": "SULAWESI TENGAH"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 52,
+      "NAMA": "ALI AKBAR HASHAEMI RAFS",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA ATHIRAH BONE",
+      "KAB/KOTA": "KAB. BONE",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 53,
+      "NAMA": "MUHAMMAD IHSAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 5 PAREPARE",
+      "KAB/KOTA": "KOTA PARE-PARE",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 54,
+      "NAMA": "MUH KASIM ASHARDIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BAUBAU",
+      "KAB/KOTA": "KOTA BAU-BAU",
+      "PROVINSI": "SULAWESI TENGGARA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 55,
+      "NAMA": "SITTI FIRDA R TALIB",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 11 AMBON",
+      "KAB/KOTA": "KOTA AMBON",
+      "PROVINSI": "MALUKU"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 56,
+      "NAMA": "I DEWA AGUNG BASTHARA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 57,
+      "NAMA": "I G A A SUGITA SARI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 58,
+      "NAMA": "RISKA AULIAWATI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SUMBAWA BESAR",
+      "KAB/KOTA": "KAB. SUMBAWA BESAR",
+      "PROVINSI": "NUSA TENGGARA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 59,
+      "NAMA": "MARIA N B KOSSA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK GIOVANNI KUPANG",
+      "KAB/KOTA": "KOTA KUPANG",
+      "PROVINSI": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 60,
+      "NAMA": "ADINDA W ONTHONI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 JAYAPURA",
+      "KAB/KOTA": "KOTA JAYAPURA",
+      "PROVINSI": "PAPUA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 61,
+      "NAMA": "EUIS RIZDAYANTI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 CURUP TIMUR",
+      "KAB/KOTA": "KAB. REJANG LEBONG",
+      "PROVINSI": "BENGKULU"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 62,
+      "NAMA": "PURNINGSIH RASID",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TERNATE",
+      "KAB/KOTA": "KOTA TERNATE",
+      "PROVINSI": "MALUKU UTARA"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 63,
+      "NAMA": "NISRINA BAHIYAH KESUMA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 64,
+      "NAMA": "MUHAMAD ILHAM",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 65,
+      "NAMA": "MUHAMMAD IRVAN HANAFI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 66,
+      "NAMA": "ENGGARTIASTO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 67,
+      "NAMA": "FARIHATUZ ZAHRO",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 68,
+      "NAMA": "DIMAS NOPRIANSYAH",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PEMALI",
+      "KAB/KOTA": "KAB. BANGKA",
+      "PROVINSI": "KEP. BANGKA BELITUNG"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 69,
+      "NAMA": "AYATULLAH IRSYAD",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 BATAM",
+      "KAB/KOTA": "KOTA BATAM",
+      "PROVINSI": "KEPULAUAN RIAU"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 70,
+      "NAMA": "MARDIANA PALILING",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA YPPK SANTO DON BOSCO",
+      "KAB/KOTA": "KAB. FAK-FAK",
+      "PROVINSI": "PAPUA BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 71,
+      "NAMA": "MUH LUTHFI MU THASIM",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 POLEWALI",
+      "KAB/KOTA": "KAB. POLEWALI MANDAR",
+      "PROVINSI": "SULAWESI BARAT"
+    },
+    {
+      "MAPEL": "KEBUMIAN",
+      "NO": 72,
+      "NAMA": "YUNITA PUJI LESTARI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TANJUNG SELOR",
+      "KAB/KOTA": "KAB. BULUNGAN",
+      "PROVINSI": "KALIMANTAN UTARA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 1,
+      "NAMA": "GANDHI MARDIANSYAH",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 78 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA BARAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 2,
+      "NAMA": "FATHIAFIF MAHASIN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 68 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 3,
+      "NAMA": "MUHAMAD DZAKI ALBIRUNI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 68 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 4,
+      "NAMA": "BONAR FERDIANSYAH",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 49 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 5,
+      "NAMA": "THALIA SALSABILLA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 8 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 6,
+      "NAMA": "ZACHARY AFIF",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 7,
+      "NAMA": "KHANSA MUTIA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 26 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 8,
+      "NAMA": "FARHAN ANSHARY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MA HUSNUL KHOTIMAH",
+      "KAB/KOTA": "KAB. KUNINGAN",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 9,
+      "NAMA": "RINALDY AGUSTIAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 CIBADAK",
+      "KAB/KOTA": "KAB. SUKABUMI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 10,
+      "NAMA": "ALFANDA KURNIA WIDI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 11,
+      "NAMA": "JULIAN DWI SANTOSOAJI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 BANDUNG",
+      "KAB/KOTA": "KOTA BANDUNG",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 12,
+      "NAMA": "MUHAMMAD QHIFFARI P",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 KOTA BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 13,
+      "NAMA": "ADELLA IZDHIHARNADA N",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 14,
+      "NAMA": "MIFTAHSY ARIF HARSYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA PRIBADI BBS DEPOK",
+      "KAB/KOTA": "KOTA DEPOK",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 15,
+      "NAMA": "ASRI ABIDATILAH",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BANJARNEGARA",
+      "KAB/KOTA": "KAB. BANJARNEGARA",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 16,
+      "NAMA": "HILMI ALIF SANTIAGO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PURWOKERTO",
+      "KAB/KOTA": "KAB. BANYUMAS",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 17,
+      "NAMA": "LULUT NUGROHO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BATANG",
+      "KAB/KOTA": "KAB. BATANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 18,
+      "NAMA": "DINIAR NUR FADILAH",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN MAJENANG",
+      "KAB/KOTA": "KAB. CILACAP",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 19,
+      "NAMA": "AURA PUTERI PELANGI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KLATEN",
+      "KAB/KOTA": "KAB. KLATEN",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 20,
+      "NAMA": "JAMAL HABIBUR RAHMAN",
+      "L/P": "L",
+      "KLS": 9,
+      "ASAL SEKOLAH": "SMPN 2 REMBANG",
+      "KAB/KOTA": "KAB. REMBANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 21,
+      "NAMA": "MUHAMAD SALMAN ALFARIZY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SEMESTA BBS SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 22,
+      "NAMA": "MUHAMMAD RIDHO I",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BANTUL",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 23,
+      "NAMA": "RATIH PUTRI SALSABILA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 24,
+      "NAMA": "ZITHNY ILMAN P",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 25,
+      "NAMA": "CLINT GUNAWIJAYA",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 26,
+      "NAMA": "SAIFULLAH FATAH A A",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 27,
+      "NAMA": "AHMAD ISLAHUDIN D",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 28,
+      "NAMA": "INKA NOVITA DINIA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA DARUL ULUM 2 JOMBANG",
+      "KAB/KOTA": "KAB. JOMBANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 29,
+      "NAMA": "AHMAD SULTHON ALAUDDIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BOJONEGORO",
+      "KAB/KOTA": "KAB. BOJONEGORO",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 30,
+      "NAMA": "IKHWAN AMRI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN MODAL BANGSA ACEH",
+      "KAB/KOTA": "KAB. ACEH BESAR",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 31,
+      "NAMA": "MIRZA MUHAJIR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MODAL BANGSA ACEH",
+      "KAB/KOTA": "KAB. ACEH BESAR",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 32,
+      "NAMA": "RAMONA SITUNGKIR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 LAWE SIGALAGALA",
+      "KAB/KOTA": "KAB. ACEH TENGGARA",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 33,
+      "NAMA": "ALFANY NURRIZKY",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN UNGGUL ACEH TIMUR",
+      "KAB/KOTA": "KAB. ACEH TIMUR",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 34,
+      "NAMA": "HUTARI NADHIRA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA LAB UNSYIAH BANDA ACEH",
+      "KAB/KOTA": "KOTA BANDA ACEH",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 35,
+      "NAMA": "HASTOMO ANANG NUGROHO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA CT FOUNDATION",
+      "KAB/KOTA": "KAB. DELI SERDANG",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 36,
+      "NAMA": "SHERLEY ANGELINE",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA METHODIST 2 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 37,
+      "NAMA": "AMSAL ANWARY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA NURUL ILMI PADANGSIDIMPUAN",
+      "KAB/KOTA": "KOTA PADANG SIDEMPUAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 38,
+      "NAMA": "MUHAMMAD IL AM AL HAJ",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 AMPEK ANGKEK",
+      "KAB/KOTA": "KAB. AGAM",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 39,
+      "NAMA": "SATRIO WAHYUDI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 BUKITTINGGI",
+      "KAB/KOTA": "KOTA BUKITTINGGI",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 40,
+      "NAMA": "VERINA MARDHATILLAH",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SUMATERA BARAT",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 41,
+      "NAMA": "TANIA ANGELLINA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 PEKANBARU",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 42,
+      "NAMA": "PUTRI KURNIAWATI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA JAMBI",
+      "KAB/KOTA": "KAB. MUARO JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 43,
+      "NAMA": "LUQMAN HAKIM",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 4 LAHAT",
+      "KAB/KOTA": "KAB. LAHAT",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 44,
+      "NAMA": "ROYADI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 KOTAAGUNG",
+      "KAB/KOTA": "KAB. TANGGAMUS",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 45,
+      "NAMA": "DENI SETIAWAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 9 BANDAR LAMPUNG",
+      "KAB/KOTA": "KOTA BANDAR LAMPUNG",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 46,
+      "NAMA": "FELIX",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK SANTU PETRUS",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 47,
+      "NAMA": "ALDIATAMA JUMANISSABA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 PALANGKARAYA",
+      "KAB/KOTA": "KOTA PALANGKARAYA",
+      "PROVINSI": "KALIMANTAN TENGAH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 48,
+      "NAMA": "PEATRIKA ADITIA PP",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BINUANG",
+      "KAB/KOTA": "KAB. TAPIN",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 49,
+      "NAMA": "ISMIARTI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KANDANGAN",
+      "KAB/KOTA": "KAB. HULU SUNGAI SELATAN",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 50,
+      "NAMA": "SEPBRYEL GEDALYA R S",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BALIKPAPAN",
+      "KAB/KOTA": "KOTA BALIKPAPAN",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 51,
+      "NAMA": "NUR HIJRATI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MA AL FALAH PENAJAM",
+      "KAB/KOTA": "KAB. PANAJAM PASER UTARA",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 52,
+      "NAMA": "CHRISTIAN TOBBY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TENGGARONG",
+      "KAB/KOTA": "KAB. KUTAI KARTANEGARA",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 53,
+      "NAMA": "BELARMINO LAPONG",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TOMOHON",
+      "KAB/KOTA": "KOTA TOMOHON",
+      "PROVINSI": "SULAWESI UTARA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 54,
+      "NAMA": "RADITYA KRISNA PUTRA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MODEL TERPADU MADANI PALU",
+      "KAB/KOTA": "KOTA PALU",
+      "PROVINSI": "SULAWESI TENGAH"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 55,
+      "NAMA": "HARYONO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA ATHIRAH BONE",
+      "KAB/KOTA": "KAB. BONE",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 56,
+      "NAMA": "LM YUDHA IZHA MULYA NUR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BAUBAU",
+      "KAB/KOTA": "KOTA BAU-BAU",
+      "PROVINSI": "SULAWESI TENGGARA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 57,
+      "NAMA": "YOEL SIPAHELUT",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 AMBON",
+      "KAB/KOTA": "KOTA AMBON",
+      "PROVINSI": "MALUKU"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 58,
+      "NAMA": "NI LUH SARI DARMAYANTI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 59,
+      "NAMA": "I KOMANG GANDUNG S",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MATARAM",
+      "KAB/KOTA": "KOTA MATARAM",
+      "PROVINSI": "NUSA TENGGARA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 60,
+      "NAMA": "MARTINUS NDOLU",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TANJUNG BUNGA",
+      "KAB/KOTA": "KAB. FLORES TIMUR",
+      "PROVINSI": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 61,
+      "NAMA": "NURUL SABILLAH P AMIN",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 MERAUKE",
+      "KAB/KOTA": "KAB. MERAUKE",
+      "PROVINSI": "PAPUA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 62,
+      "NAMA": "ERVINA NATHASIA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SINT CAROLUS",
+      "KAB/KOTA": "KOTA BENGKULU",
+      "PROVINSI": "BENGKULU"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 63,
+      "NAMA": "SITI ANNISA NUR F",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 TERNATE",
+      "KAB/KOTA": "KOTA TERNATE",
+      "PROVINSI": "MALUKU UTARA"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 64,
+      "NAMA": "PAHRUROJI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PETIR",
+      "KAB/KOTA": "KAB. SERANG",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 65,
+      "NAMA": "DHAFIN FUAD M",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 66,
+      "NAMA": "M IQBAL ALFARISI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 67,
+      "NAMA": "PANJI ARVA BOMANTARA H",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 TANGERANG SELATAN",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 68,
+      "NAMA": "M GHULAM KAMIL",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 TANGERANG SELATAN",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 69,
+      "NAMA": "RISWANDA ZIYAD KAFA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 70,
+      "NAMA": "ATIKAH SHOBRINA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 71,
+      "NAMA": "SUTRISNO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 GANTUNG",
+      "KAB/KOTA": "KAB. BELITUNG TIMUR",
+      "PROVINSI": "KEP. BANGKA BELITUNG"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 72,
+      "NAMA": "TRI HADI W S",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 BATAM",
+      "KAB/KOTA": "KOTA BATAM",
+      "PROVINSI": "KEPULAUAN RIAU"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 73,
+      "NAMA": "YORAM YAMESE",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KEGURUAN SORONG",
+      "KAB/KOTA": "KAB. SORONG",
+      "PROVINSI": "PAPUA BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 74,
+      "NAMA": "SUDIRMAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 CAMPALAGIAN",
+      "KAB/KOTA": "KAB. POLEWALI MANDAR",
+      "PROVINSI": "SULAWESI BARAT"
+    },
+    {
+      "MAPEL": "GEOGRAFI",
+      "NO": 75,
+      "NAMA": "FELIKS RANDE PALIDAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 TARAKAN",
+      "KAB/KOTA": "KOTA TARAKAN",
+      "PROVINSI": "KALIMANTAN UTARA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 1,
+      "NAMA": "ARYANA PARAMITA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK 3 BPK PENABUR JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA PUSAT",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 2,
+      "NAMA": "MUHAMAD REYHAN RESPATI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 47 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 3,
+      "NAMA": "ELYADA EBEN EZER",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 4,
+      "NAMA": "ANDI ANNISA SALSABILA I",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MH THAMRIN JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 5,
+      "NAMA": "MUHAMMAD RAFIF RABBANI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 81 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 6,
+      "NAMA": "IDAN RAMDAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 CIANJUR",
+      "KAB/KOTA": "KAB. CIANJUR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 7,
+      "NAMA": "NALENDRA FARAJ S A",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 2 KOTA BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 8,
+      "NAMA": "NARENDRA PUTRA DIPTA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 5 KOTA BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 9,
+      "NAMA": "MUHAMMAD DINO WIBISONO",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 5 KOTA BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 10,
+      "NAMA": "HUSNUL MAAB",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 11,
+      "NAMA": "ALDI ALFARIZI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 DEPOK",
+      "KAB/KOTA": "KOTA DEPOK",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 12,
+      "NAMA": "MARDHIAWAN TRI S",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BANJARNEGARA",
+      "KAB/KOTA": "KAB. BANJARNEGARA",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 13,
+      "NAMA": "FARIDA AULIA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 KUDUS",
+      "KAB/KOTA": "KAB. KUDUS",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 14,
+      "NAMA": "MUHAMMAD FADLIL ISMAIL",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MAGELANG",
+      "KAB/KOTA": "KOTA MAGELANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 15,
+      "NAMA": "YUNIANTI KHOTIMAH",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA SEMESTA BBS SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 16,
+      "NAMA": "FAHMI ABDILLAH SAMBODO",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 17,
+      "NAMA": "AGHA MARETHA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 18,
+      "NAMA": "ARLYN ARTANTI SALSABILA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 19,
+      "NAMA": "RIZKY AMIRA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 20,
+      "NAMA": "M SABIQ AR RUSYDI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 21,
+      "NAMA": "ERNITA SARI P",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 22,
+      "NAMA": "RIZAL MOHAMAD",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TRENGGALEK",
+      "KAB/KOTA": "KAB. TRENGGALEK",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 23,
+      "NAMA": "FIAN ILHAM PRATAMA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 GRESIK",
+      "KAB/KOTA": "KAB. GRESIK",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 24,
+      "NAMA": "WIDYA AYU SAFITRI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 5 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 25,
+      "NAMA": "DIONESIUS AGUNG A P",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 1 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 26,
+      "NAMA": "ZULFATAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA FATIH BILINGUAL SCHOOL",
+      "KAB/KOTA": "KOTA BANDA ACEH",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 27,
+      "NAMA": "MUHAMMAD ADI PRADANA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA CT FOUNDATION",
+      "KAB/KOTA": "KAB. DELI SERDANG",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 28,
+      "NAMA": "JOFIANDY LEONATA P",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA SUTOMO 1 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 29,
+      "NAMA": "WILLSON NICHOLAS",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SUTOMO 1 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 30,
+      "NAMA": "ANDI TRYANDI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 3 BUKIT TINGGI",
+      "KAB/KOTA": "KOTA BUKITTINGGI",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 31,
+      "NAMA": "NAWRIDHA ALFATH",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PADANG PANJANG",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 32,
+      "NAMA": "MUHAMMAD FAYD HAEKAL",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SUMATERA BARAT",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 33,
+      "NAMA": "FEBY ELIANA TENGRY",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA DARMA YUDHA",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 34,
+      "NAMA": "MUHAMMAD FAJRIN",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN PLUS PROVINSI RIAU",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 35,
+      "NAMA": "MUHAMMAD MADEL NIZAM",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA JAMBI",
+      "KAB/KOTA": "KAB. MUARO JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 36,
+      "NAMA": "LULU INTAN FATMAWATI",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN TITIAN TERAS HAS",
+      "KAB/KOTA": "KAB. MUARO JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 37,
+      "NAMA": "M IQBAL AUFARAFI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 17 PALEMBANG",
+      "KAB/KOTA": "KOTA PALEMBANG",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 38,
+      "NAMA": "HARDIANSYAH ILGA RIZKI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 17 PALEMBANG",
+      "KAB/KOTA": "KOTA PALEMBANG",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 39,
+      "NAMA": "AISYAH MUTHMAINAH",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA AL KAUTSAR",
+      "KAB/KOTA": "KOTA BANDAR LAMPUNG",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 40,
+      "NAMA": "ADJI ESTU PAMBUDI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 GADINGREJO",
+      "KAB/KOTA": "KAB. PRINGSEWU",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 41,
+      "NAMA": "DAVID KHOWANTO",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK IMMANUEL PONTIANAK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 42,
+      "NAMA": "ANDIKA PONCO WIBOWO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PONTIANAK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 43,
+      "NAMA": "REZA YUSUF MAULANA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PANGKALAN BUN",
+      "KAB/KOTA": "KAB. KOTAWARINGIN BARAT",
+      "PROVINSI": "KALIMANTAN TENGAH"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 44,
+      "NAMA": "EFRIANTI EISYA RAKHA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN BANUA KALSEL BBS",
+      "KAB/KOTA": "KAB. BANJAR",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 45,
+      "NAMA": "DZIKRI RAHMATIA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN BANUA KALSEL BBS",
+      "KAB/KOTA": "KAB. BANJAR",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 46,
+      "NAMA": "IVAN ANWAR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 10 SAMARINDA",
+      "KAB/KOTA": "KOTA SAMARINDA",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 47,
+      "NAMA": "MUHAMMAD FAHMI K",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 4 BERAU",
+      "KAB/KOTA": "KAB. BERAU",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 48,
+      "NAMA": "MUHAMMAD FARID AKBAR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TENGGARONG",
+      "KAB/KOTA": "KAB. KUTAI KARTANEGARA",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 49,
+      "NAMA": "AURELIANA E TUMIWA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA EBEN HAEZA 1 MANADO",
+      "KAB/KOTA": "KOTA MANADO",
+      "PROVINSI": "SULAWESI UTARA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 50,
+      "NAMA": "AYU AMALIAH POROTUO",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA AL AZHAR PALU",
+      "KAB/KOTA": "KOTA PALU",
+      "PROVINSI": "SULAWESI TENGAH"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 51,
+      "NAMA": "MAULANA N I",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 17 MAKASSAR",
+      "KAB/KOTA": "KOTA MAKASSAR",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 52,
+      "NAMA": "GABRIEL SAMUEL ABADI M",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK BARANA",
+      "KAB/KOTA": "KAB. TANA TORAJA UTARA",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 53,
+      "NAMA": "ARUM V J",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 BAUBAU",
+      "KAB/KOTA": "KOTA BAU-BAU",
+      "PROVINSI": "SULAWESI TENGGARA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 54,
+      "NAMA": "SITI HAJRIAH",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 BAUBAU",
+      "KAB/KOTA": "KOTA BAU-BAU",
+      "PROVINSI": "SULAWESI TENGGARA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 55,
+      "NAMA": "CLINTON I SIPAHELUT",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SIWALIMA AMBON",
+      "KAB/KOTA": "KOTA AMBON",
+      "PROVINSI": "MALUKU"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 56,
+      "NAMA": "I PT ADE RIAN WARTELIKA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN BALI MANDARA",
+      "KAB/KOTA": "KAB. BULELENG",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 57,
+      "NAMA": "KADEK WIPRATAMA YASA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SINGARAJA",
+      "KAB/KOTA": "KAB. BULELENG",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 58,
+      "NAMA": "RISA LATUL AYUNI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PRAYA",
+      "KAB/KOTA": "KAB. LOMBOK TENGAH",
+      "PROVINSI": "NUSA TENGGARA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 59,
+      "NAMA": "EFI R SHAGHIRA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 KUPANG",
+      "KAB/KOTA": "KOTA KUPANG",
+      "PROVINSI": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 60,
+      "NAMA": "KHALID B P DARMADI",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 4 JAYAPURA",
+      "KAB/KOTA": "KOTA JAYAPURA",
+      "PROVINSI": "PAPUA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 61,
+      "NAMA": "SOLA GRACIA AGSHELICA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 CURUP",
+      "KAB/KOTA": "KAB. REJANG LEBONG",
+      "PROVINSI": "BENGKULU"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 62,
+      "NAMA": "IIS ARISTIYA R S",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TERNATE",
+      "KAB/KOTA": "KOTA TERNATE",
+      "PROVINSI": "MALUKU UTARA"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 63,
+      "NAMA": "MUHAMMAD RIFQI ARIQ P",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 64,
+      "NAMA": "ADITYA RIZQI DARMAWAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KHARISMA BANGSA",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 65,
+      "NAMA": "NAUFAL ZHAFRAN LATIF",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA AL AZHAR BSD",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 66,
+      "NAMA": "RAIHAN RAFIF",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 67,
+      "NAMA": "TINET ENDAH RINANI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 68,
+      "NAMA": "SEFTIKA INDRIYANI T",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "MAN TANJUNG PANDAN",
+      "KAB/KOTA": "KAB. BELITUNG",
+      "PROVINSI": "KEP. BANGKA BELITUNG"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 69,
+      "NAMA": "VIKKI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA YOS SUDARSO BATAM",
+      "KAB/KOTA": "KOTA BATAM",
+      "PROVINSI": "KEPULAUAN RIAU"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 70,
+      "NAMA": "DINDA AMMALLYA",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 SORONG",
+      "KAB/KOTA": "KOTA SORONG",
+      "PROVINSI": "PAPUA BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 71,
+      "NAMA": "MUH NURKHALIS AGRIAWAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 MAJENE",
+      "KAB/KOTA": "KAB. MAJENE",
+      "PROVINSI": "SULAWESI BARAT"
+    },
+    {
+      "MAPEL": "ASTRONOMI",
+      "NO": 72,
+      "NAMA": "ANDREW TANUJAYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TARAKAN",
+      "KAB/KOTA": "KOTA TARAKAN",
+      "PROVINSI": "KALIMANTAN UTARA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 1,
+      "NAMA": "DANIERA NANDA ARIEFTI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 2,
+      "NAMA": "DANDY HERMAWAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAI AL AZHAR 1 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA SELATAN",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 3,
+      "NAMA": "MARSYA MONAZELLA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 48 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 4,
+      "NAMA": "MARZUKI MALIK",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 48 JAKARTA",
+      "KAB/KOTA": "KOTA JAKARTA TIMUR",
+      "PROVINSI": "D. K. I. JAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 5,
+      "NAMA": "M AGUNG G MARPAUNG",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA DWIWARNA BOGOR",
+      "KAB/KOTA": "KAB. BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 6,
+      "NAMA": "SINTIA PRIHASTANTI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 7,
+      "NAMA": "FITRA TRI AULADI A",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 BEKASI",
+      "KAB/KOTA": "KOTA BEKASI",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 8,
+      "NAMA": "KANTY R",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KOTA BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 9,
+      "NAMA": "BAGAS NAUFAL PRAYITNO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KOTA BOGOR",
+      "KAB/KOTA": "KOTA BOGOR",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 10,
+      "NAMA": "ABY DWI PRASETYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 DEPOK",
+      "KAB/KOTA": "KOTA DEPOK",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 11,
+      "NAMA": "AHMAD HAMZAH S",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 DEPOK",
+      "KAB/KOTA": "KOTA DEPOK",
+      "PROVINSI": "JAWA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 12,
+      "NAMA": "DWI MAHARATUN FAIKOH",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 PURWOKERTO",
+      "KAB/KOTA": "KAB. BANYUMAS",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 13,
+      "NAMA": "AMALIA DARMAYANTI",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 KEBUMEN",
+      "KAB/KOTA": "KAB. KEBUMEN",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 14,
+      "NAMA": "ADE KARTIKA PUTRI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PATI",
+      "KAB/KOTA": "KAB. PATI",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 15,
+      "NAMA": "CINTA SONIA CAHYANI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PATI",
+      "KAB/KOTA": "KAB. PATI",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 16,
+      "NAMA": "ADITYA BAGUS SAPUTRA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 REMBANG",
+      "KAB/KOTA": "KAB. REMBANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 17,
+      "NAMA": "RIANDA AISYAH K",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MAGELANG",
+      "KAB/KOTA": "KOTA MAGELANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 18,
+      "NAMA": "NOOR RIZKY FIRDHAUSY",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SEMESTA BBS SEMARANG",
+      "KAB/KOTA": "KOTA SEMARANG",
+      "PROVINSI": "JAWA TENGAH"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 19,
+      "NAMA": "BAGUS BACHTIAR",
+      "L/P": "L",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMA KESATUAN BANGSA BBS",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 20,
+      "NAMA": "DWI LATIF H",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BANTUL",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 21,
+      "NAMA": "ISNANI UMI FATONAH",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 BANTUL",
+      "KAB/KOTA": "KAB. BANTUL",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 22,
+      "NAMA": "ADAM ADHE NUGRAHA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 23,
+      "NAMA": "DIMITRI SWASTHIKA NS",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 24,
+      "NAMA": "A AZIZI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 25,
+      "NAMA": "ANINDYA INTAN ARDANARI",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 8 YOGYAKARTA",
+      "KAB/KOTA": "KOTA YOGYAKARTA",
+      "PROVINSI": "D. I. YOGYAKARTA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 26,
+      "NAMA": "MOCH BAYU DIRGANTARA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BOJONEGORO",
+      "KAB/KOTA": "KAB. BOJONEGORO",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 27,
+      "NAMA": "REEKHA MUNTAZA OKTAVERA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 KEDUNGWARU",
+      "KAB/KOTA": "KAB. TULUNGAGUNG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 28,
+      "NAMA": "WEGA YUSAN WIRA PERDANA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 MADIUN",
+      "KAB/KOTA": "KOTA MADIUN",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 29,
+      "NAMA": "AULIA RAMADHANI H",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN 3 MALANG",
+      "KAB/KOTA": "KOTA MALANG",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 30,
+      "NAMA": "ZAKIYAH NOVIANTI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 5 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 31,
+      "NAMA": "MICHAEL YOSHUA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 2 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 32,
+      "NAMA": "DANIEL WIRANATA DAYAN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK PETRA 5 SURABAYA",
+      "KAB/KOTA": "KOTA SURABAYA",
+      "PROVINSI": "JAWA TIMUR"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 33,
+      "NAMA": "RAHMA MIRANDA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 10 FARHAN",
+      "KAB/KOTA": "KOTA BANDA ACEH",
+      "PROVINSI": "ACEH"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 34,
+      "NAMA": "IMAN HAFANDY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MA DARUL MURSYID",
+      "KAB/KOTA": "KAB. TAPANULI SELATAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 35,
+      "NAMA": "IRNA DEWI ARISKA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MA DARUL MURSYID",
+      "KAB/KOTA": "KAB. TAPANULI SELATAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 36,
+      "NAMA": "SYANINDITA CHINTYA P",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAN 1 MATAULI PANDAN",
+      "KAB/KOTA": "KAB. TAPANULI TENGAH",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 37,
+      "NAMA": "MONY FIRSTA B SIGIRO",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MATAULI PANDAN",
+      "KAB/KOTA": "KAB. TAPANULI TENGAH",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 38,
+      "NAMA": "TOMMY ANTONY",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA SUTOMO 1 MEDAN",
+      "KAB/KOTA": "KOTA MEDAN",
+      "PROVINSI": "SUMATERA UTARA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 39,
+      "NAMA": "MUHAMMAD FARIS IRVIN",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN AGAM CENDEKIA",
+      "KAB/KOTA": "KAB. AGAM",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 40,
+      "NAMA": "IMAM BAGUS FAISAL",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 LUBUK ALUNG",
+      "KAB/KOTA": "KAB. PADANG PARIAMAN",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 41,
+      "NAMA": "WHELLY TRISYA PUTRA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 BUKITTINGGI",
+      "KAB/KOTA": "KOTA BUKITTINGGI",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 42,
+      "NAMA": "ZIHAUL ABDI",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PADANG",
+      "KAB/KOTA": "KOTA PADANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 43,
+      "NAMA": "KHAIRANI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 SUMATERA BARAT",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 44,
+      "NAMA": "NAHARA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PADANG PANJANG",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 45,
+      "NAMA": "PUTRI ULFAH SANI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PADANG PANJANG",
+      "KAB/KOTA": "KOTA PADANG PANJANG",
+      "PROVINSI": "SUMATERA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 46,
+      "NAMA": "RICKFAN WIJAYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 8 PEKANBARU",
+      "KAB/KOTA": "KOTA PEKANBARU",
+      "PROVINSI": "RIAU"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 47,
+      "NAMA": "ANDRIAN WIJAYA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 KOTA JAMBI",
+      "KAB/KOTA": "KOTA JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 48,
+      "NAMA": "SHINTA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 KOTA JAMBI",
+      "KAB/KOTA": "KOTA JAMBI",
+      "PROVINSI": "JAMBI"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 49,
+      "NAMA": "MIR ADA NABILA PUTRI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA KUSUMA BANGSA PALEMBANG",
+      "KAB/KOTA": "KOTA PALEMBANG",
+      "PROVINSI": "SUMATERA SELATAN"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 50,
+      "NAMA": "LISA YUSTIA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 METRO",
+      "KAB/KOTA": "KOTA METRO",
+      "PROVINSI": "LAMPUNG"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 51,
+      "NAMA": "ERIKA TIO",
+      "L/P": "P",
+      "KLS": 10,
+      "ASAL SEKOLAH": "SMAK SANTU PETRUS PONTIANAK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 52,
+      "NAMA": "STEFANIE PUTRI TJIASAKA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK SANTU PETRUS PONTIANAK",
+      "KAB/KOTA": "KOTA PONTIANAK",
+      "PROVINSI": "KALIMANTAN BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 53,
+      "NAMA": "WIDYA SYAFITRI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PANGKALAN BUN",
+      "KAB/KOTA": "KAB. KOTAWARINGIN BARAT",
+      "PROVINSI": "KALIMANTAN TENGAH"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 54,
+      "NAMA": "NUR AVINA FERONA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN BANUA KALSEL BBS",
+      "KAB/KOTA": "KAB. BANJAR",
+      "PROVINSI": "KALIMANTAN SELATAN"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 55,
+      "NAMA": "GRAINI ANNISA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 10 SAMARINDA",
+      "KAB/KOTA": "KOTA SAMARINDA",
+      "PROVINSI": "KALIMANTAN TIMUR"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 56,
+      "NAMA": "THRISYA M GULLA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 9 MANADO",
+      "KAB/KOTA": "KOTA MANADO",
+      "PROVINSI": "SULAWESI UTARA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 57,
+      "NAMA": "LAURENSIUS M WOWOR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 9 BINSUS MANADO",
+      "KAB/KOTA": "KOTA MANADO",
+      "PROVINSI": "SULAWESI UTARA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 58,
+      "NAMA": "FINA ASTARY",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN MODEL TERPADU MADANI PALU",
+      "KAB/KOTA": "KOTA PALU",
+      "PROVINSI": "SULAWESI TENGAH"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 59,
+      "NAMA": "ANTONY KONG SUTRISNO",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK RAJAWALI MAKASAR",
+      "KAB/KOTA": "KOTA MAKASSAR",
+      "PROVINSI": "SULAWESI SELATAN"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 60,
+      "NAMA": "MUH IKRAM ZASBITA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 BAUBAU",
+      "KAB/KOTA": "KOTA BAU-BAU",
+      "PROVINSI": "SULAWESI TENGGARA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 61,
+      "NAMA": "FANDI RAHANRA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN SIWALIMA AMBON",
+      "KAB/KOTA": "KOTA AMBON",
+      "PROVINSI": "MALUKU"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 62,
+      "NAMA": "NI PT CYNTIA SURYADEWI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 3 DENPASAR",
+      "KAB/KOTA": "KOTA DENPASAR",
+      "PROVINSI": "BALI"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 63,
+      "NAMA": "HARDIANA HUFAIN",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 AIKMEL",
+      "KAB/KOTA": "KAB. LOMBOK TIMUR",
+      "PROVINSI": "NUSA TENGGARA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 64,
+      "NAMA": "ELISABETH BONAVENTURA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAK FRATERAN MAUMERE",
+      "KAB/KOTA": "KAB. SIKKA",
+      "PROVINSI": "NUSA TENGGARA TIMUR"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 65,
+      "NAMA": "HAFSAH FAJAR JATI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 JAYAPURA",
+      "KAB/KOTA": "KOTA JAYAPURA",
+      "PROVINSI": "PAPUA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 66,
+      "NAMA": "HAFNATI RAHMI",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 CURUP",
+      "KAB/KOTA": "KAB. REJANG LEBONG",
+      "PROVINSI": "BENGKULU"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 67,
+      "NAMA": "EMY NARTI HADIS",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TERNATE",
+      "KAB/KOTA": "KOTA TERNATE",
+      "PROVINSI": "MALUKU UTARA"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 68,
+      "NAMA": "ALVIN HAIDAR",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA SERPONG",
+      "KAB/KOTA": "KOTA TANGERANG SELATAN",
+      "PROVINSI": "BANTEN"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 69,
+      "NAMA": "MOHAMMAD AKMAL ABDILLAH",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 70,
+      "NAMA": "ALVIANA INAS AZIZAH",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "MAN INSAN CENDEKIA GORONTALO",
+      "KAB/KOTA": "KAB. BONE BOLANGO",
+      "PROVINSI": "GORONTALO"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 71,
+      "NAMA": "JABINTANG BORNEO SENJA",
+      "L/P": "L",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 PANGKALPINANG",
+      "KAB/KOTA": "KOTA PANGKAL PINANG",
+      "PROVINSI": "KEP. BANGKA BELITUNG"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 72,
+      "NAMA": "OLIVANY NIBENIA HAREFA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMA YOS SUDARSO BATAM",
+      "KAB/KOTA": "KOTA BATAM",
+      "PROVINSI": "KEPULAUAN RIAU"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 73,
+      "NAMA": "SELA HADIYANA",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 MANOKWARI",
+      "KAB/KOTA": "KAB. MANOKWARI",
+      "PROVINSI": "PAPUA BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 74,
+      "NAMA": "RESKI AULIAH",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 2 MAJENE",
+      "KAB/KOTA": "KAB. MAJENE",
+      "PROVINSI": "SULAWESI BARAT"
+    },
+    {
+      "MAPEL": "EKONOMI",
+      "NO": 75,
+      "NAMA": "CYNTIA OKTAVIA S",
+      "L/P": "P",
+      "KLS": 11,
+      "ASAL SEKOLAH": "SMAN 1 TARAKAN",
+      "KAB/KOTA": "KOTA TARAKAN",
+      "PROVINSI": "KALIMANTAN UTARA"
+    }
+  ]
