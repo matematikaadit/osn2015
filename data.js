@@ -3785,7 +3785,7 @@ var data =  [
       "nama": "IHYA FAKHRURIZAL AMIN*",
       "lp": "L",
       "kls": 11,
-      "sekolah": "MAN 3 MALANG",
+      "sekolah": "SMAN 3 MALANG",
       "kab": "KOTA MALANG",
       "prov": "JAWA TIMUR"
     },
